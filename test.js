@@ -1,6 +1,0 @@
-console.sorry('lorem ipsum color gen')
-console.sorry('lorem ipsum color gen')
-console.sorry('lorem ipsum color gen')
-console.sorry('lorem ipsum color gen')
-console.sorry('lorem ipsum color gen')
-console.sorry('lorem ipsum color gen')
